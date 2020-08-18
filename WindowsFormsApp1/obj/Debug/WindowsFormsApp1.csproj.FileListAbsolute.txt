@@ -1,0 +1,52 @@
+C:\Users\AhmetBircan\Desktop\120820 Csharp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\AhmetBircan\Desktop\120820 Csharp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AnaForm.resources
+C:\Users\AhmetBircan\Desktop\120820 Csharp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmHastaListesi.resources
+C:\Users\AhmetBircan\Desktop\120820 Csharp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmYeniHasta.resources
+C:\Users\AhmetBircan\Desktop\120820 Csharp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\AhmetBircan\Desktop\120820 Csharp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\AhmetBircan\Desktop\120820 Csharp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\AhmetBircan\Desktop\120820 Csharp\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\AhmetBircan\Desktop\120820 Csharp\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\AhmetBircan\Desktop\120820 Csharp\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\AhmetBircan\Desktop\120820 Csharp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\AhmetBircan\Desktop\120820 Csharp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\AhmetBircan\Desktop\120820 Csharp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmHastaDuzenle.resources
+C:\Users\mertg\OneDrive\Masaüstü\CODER DERSLER\C#\New folder\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\mertg\OneDrive\Masaüstü\CODER DERSLER\C#\New folder\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\mertg\OneDrive\Masaüstü\CODER DERSLER\C#\New folder\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\mertg\OneDrive\Masaüstü\CODER DERSLER\C#\New folder\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\mertg\OneDrive\Masaüstü\CODER DERSLER\C#\New folder\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AnaForm.resources
+C:\Users\mertg\OneDrive\Masaüstü\CODER DERSLER\C#\New folder\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmHastaDuzenle.resources
+C:\Users\mertg\OneDrive\Masaüstü\CODER DERSLER\C#\New folder\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmHastaListesi.resources
+C:\Users\mertg\OneDrive\Masaüstü\CODER DERSLER\C#\New folder\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmYeniHasta.resources
+C:\Users\mertg\OneDrive\Masaüstü\CODER DERSLER\C#\New folder\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\mertg\OneDrive\Masaüstü\CODER DERSLER\C#\New folder\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\mertg\OneDrive\Masaüstü\CODER DERSLER\C#\New folder\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\mertg\OneDrive\Masaüstü\CODER DERSLER\C#\New folder\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\mertg\OneDrive\Masaüstü\CODER DERSLER\C#\New folder\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\mertg\OneDrive\Masaüstü\CODER DERSLER\C#\7. Ders C# Win Forms\ÖdevTemp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\mertg\OneDrive\Masaüstü\CODER DERSLER\C#\7. Ders C# Win Forms\ÖdevTemp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AnaForm.resources
+C:\Users\mertg\OneDrive\Masaüstü\CODER DERSLER\C#\7. Ders C# Win Forms\ÖdevTemp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmHastaListesi.resources
+C:\Users\mertg\OneDrive\Masaüstü\CODER DERSLER\C#\7. Ders C# Win Forms\ÖdevTemp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmYeniHasta.resources
+C:\Users\mertg\OneDrive\Masaüstü\CODER DERSLER\C#\7. Ders C# Win Forms\ÖdevTemp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\mertg\OneDrive\Masaüstü\CODER DERSLER\C#\7. Ders C# Win Forms\ÖdevTemp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\mertg\OneDrive\Masaüstü\CODER DERSLER\C#\7. Ders C# Win Forms\ÖdevTemp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\mertg\OneDrive\Masaüstü\CODER DERSLER\C#\7. Ders C# Win Forms\ÖdevTemp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\mertg\OneDrive\Masaüstü\CODER DERSLER\C#\7. Ders C# Win Forms\ÖdevTemp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\mertg\OneDrive\Masaüstü\CODER DERSLER\C#\7. Ders C# Win Forms\ÖdevTemp\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\mertg\OneDrive\Masaüstü\CODER DERSLER\C#\7. Ders C# Win Forms\ÖdevTemp\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\mertg\OneDrive\Masaüstü\CODER DERSLER\C#\7. Ders C# Win Forms\ÖdevTemp\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\mertg\OneDrive\Masaüstü\CODER DERSLER\C#\7. Ders C# Win Forms\ÖdevTemp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmHastaDuzenle.resources
+C:\Users\mertg\OneDrive\Masaüstü\CODER DERSLER\C#\7. Ders C# Win Forms\EsasVKI Delegate ve Dongu Ödev\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\mertg\OneDrive\Masaüstü\CODER DERSLER\C#\7. Ders C# Win Forms\EsasVKI Delegate ve Dongu Ödev\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\mertg\OneDrive\Masaüstü\CODER DERSLER\C#\7. Ders C# Win Forms\EsasVKI Delegate ve Dongu Ödev\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\mertg\OneDrive\Masaüstü\CODER DERSLER\C#\7. Ders C# Win Forms\EsasVKI Delegate ve Dongu Ödev\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\mertg\OneDrive\Masaüstü\CODER DERSLER\C#\7. Ders C# Win Forms\EsasVKI Delegate ve Dongu Ödev\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AnaForm.resources
+C:\Users\mertg\OneDrive\Masaüstü\CODER DERSLER\C#\7. Ders C# Win Forms\EsasVKI Delegate ve Dongu Ödev\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmHastaDuzenle.resources
+C:\Users\mertg\OneDrive\Masaüstü\CODER DERSLER\C#\7. Ders C# Win Forms\EsasVKI Delegate ve Dongu Ödev\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmHastaListesi.resources
+C:\Users\mertg\OneDrive\Masaüstü\CODER DERSLER\C#\7. Ders C# Win Forms\EsasVKI Delegate ve Dongu Ödev\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmYeniHasta.resources
+C:\Users\mertg\OneDrive\Masaüstü\CODER DERSLER\C#\7. Ders C# Win Forms\EsasVKI Delegate ve Dongu Ödev\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\mertg\OneDrive\Masaüstü\CODER DERSLER\C#\7. Ders C# Win Forms\EsasVKI Delegate ve Dongu Ödev\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\mertg\OneDrive\Masaüstü\CODER DERSLER\C#\7. Ders C# Win Forms\EsasVKI Delegate ve Dongu Ödev\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\mertg\OneDrive\Masaüstü\CODER DERSLER\C#\7. Ders C# Win Forms\EsasVKI Delegate ve Dongu Ödev\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\mertg\OneDrive\Masaüstü\CODER DERSLER\C#\7. Ders C# Win Forms\EsasVKI Delegate ve Dongu Ödev\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
